@@ -13,7 +13,7 @@
 
 ## who am i?
 
-i spend my time staring at assembly code, finding rootkits that shouldn't exist, and breaking things open to understand them. linux kernel modules, android firmware, binary reversing—it's all ju[...]
+i spend my time staring at assembly code, finding rootkits that shouldn't exist, and breaking things open to understand them. linux kernel modules, android firmware, binary reversing
 
 the kind of person who reads disassembly for fun. no judgment if you do too.
 
