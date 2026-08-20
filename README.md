@@ -57,7 +57,7 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 ---
 
-## how i work
+## Tool's I've Used
 
 | tool | what i use it for |
 |----------------|-------------------|
