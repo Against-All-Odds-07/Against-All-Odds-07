@@ -80,50 +80,6 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 basically: the lower the level, the more interesting it gets.
 
----
-
-## current state
-
-```
-learning: [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 30%
-obsessed: [████████████████████████████████████████] 100%
-sleep schedule: [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2%
-```
-
-always looking for:
-- interesting malware samples
-- kernel-level security challenges
-- firmware engineering problems
-- people doing real security research
-
----
-
-## if you want to talk
-
-- found something weird in your kernel? 
-- got a firmware you need reversed?
-- interested in collaborating on security research?
-- want to discuss why certain rootkits are actually impressive?
-  
-https://signal.me/#eu/YQLiKmInINt5U2BkKnCcPtBDBwsqnONVYL9h3uvMksVEImzwLftDp6m00CNeM2B2
-  
-hit me up. or don't. i'll probably be staring at ghidra anyway.
-
----
-
-## disclaimer
-
-everything here is for education and research. use it responsibly. understand the laws in your country. don't do illegal stuff. i'm serious.
-
-the code is here. the knowledge is here. what you do with it is on you.
-
----
-
-```
-stay curious
-stay safe
-stay weird
-
 — Against-All-Odds-07
 ```
 
