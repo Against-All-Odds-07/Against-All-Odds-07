@@ -13,8 +13,6 @@ the kind of person crazy enough to BELIEVE. no judgment if you do too.
 ## what i actually do
 
 - **reverse engineering** → decompile, analyze, understand
-- **malware research** → find the bad stuff, figure out how it works
-- **kernel security** → look for suspicious module behavior
 - **firmware hacking** → android, bootloaders, partitions—it all falls apart eventually
 - **ctf grinding** → crackmes, hackthebox, just for the sake of it
 
