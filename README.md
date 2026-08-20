@@ -22,15 +22,6 @@ the kind of person who reads disassembly for fun. no judgment if you do too.
 
 ## the projects
 
-### [koaudit](https://github.com/Against-All-Odds-07/koaudit) — kernel module auditor
-static analysis tool for finding suspicious behavior in linux kernel modules. if your kernel module looks like a rootkit, this will probably catch it. or at least make you paranoid enough to check[...]
-
-**why it exists:** because understanding what's actually running in your kernel matters.
-
-```
-python | kernel-modules | static-analysis | linux-security | rootkit-detection
-```
-
 ---
 
 ### [MTK-SuperBuilder](https://github.com/Against-All-Odds-07/MTK-SuperBuilder) — android partition tool
