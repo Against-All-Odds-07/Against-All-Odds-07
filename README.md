@@ -80,7 +80,7 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 basically: the lower the level, the more interesting it gets.
 
-— Against-All-Odds-07
-```
 
+```
+— Against-All-Odds-07
 ```
