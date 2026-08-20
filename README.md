@@ -68,14 +68,6 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 ---
 
-## what i'm into
-
-- kernel-level threats and security
-- Reverse engineering softwares
-- firmware engineering and analysis
-- binary exploitation concepts
-- understanding how things actually work (not just what they're supposed to do)
-
 basically: the lower the level, the more interesting it gets.
 
 
