@@ -1,4 +1,4 @@
-# hey, i'm 0xNeo77 (not my real name, btw!).
+# hey, i'm Against-All-Odds-07 (not my real name, btw!).
 
 ```
  ██████╗ ██╗  ██╗███╗   ██╗███████╗ ██████╗ ███████╗███████╗
@@ -6,7 +6,7 @@
 ██║██╔██║ ╚███╔╝ ██╔██╗ ██║█████╗  ██║   ██║    ██╔╝    ██╔╝
 ████╔╝██║ ██╔██╗ ██║╚██╗██║██╔══╝  ██║   ██║   ██╔╝    ██╔╝
 ╚██████╔╝██╔╝ ██╗██║ ╚████║███████╗╚██████╔╝   ██║     ██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝    ╚═╝     ╚═╝              
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝    ╚╝     ╚╝              
 ```
 
 ---
@@ -31,7 +31,7 @@ the kind of person who reads disassembly for fun. no judgment if you do too.
 
 ## the projects
 
-### [koaudit](https://github.com/AnonNeo77/koaudit) — kernel module auditor
+### [koaudit](https://github.com/Against-All-Odds-07/koaudit) — kernel module auditor
 static analysis tool for finding suspicious behavior in linux kernel modules. if your kernel module looks like a rootkit, this will probably catch it. or at least make you paranoid enough to check[...]
 
 **why it exists:** because understanding what's actually running in your kernel matters.
@@ -42,7 +42,7 @@ python | kernel-modules | static-analysis | linux-security | rootkit-detection
 
 ---
 
-### [MTK-SuperBuilder](https://github.com/AnonNeo77/MTK-SuperBuilder) — android partition tool
+### [MTK-SuperBuilder](https://github.com/Against-All-Odds-07/MTK-SuperBuilder) — android partition tool
 build and unpack android dynamic partition images. mediatek devices mostly. the kind of tool you need when you want to actually understand your phone's firmware.
 
 **why it exists:** dynamic partitions are a mess. this makes it slightly less of a mess.
@@ -53,7 +53,7 @@ android | firmware | partition-manipulation | mediatek | python
 
 ---
 
-### [Realme C55 Root Guide](https://github.com/AnonNeo77/realme-c55-root-guide) — technical documentation
+### [Realme C55 Root Guide](https://github.com/Against-All-Odds-07/realme-c55-root-guide) — technical documentation
 deep dive into bootloader unlocking, avb verification, recovery flashing. basically "how to completely own your phone and why it's harder than it should be."
 
 **why it exists:** because detailed technical documentation on this stuff is hard to find, and i learned it the hard way.
@@ -64,7 +64,7 @@ android-rooting | bootloader | avb | firmware-analysis | mediatek
 
 ---
 
-### [Reverse Engineering Writeups](https://github.com/AnonNeo77/reverse-engineering-writeups) — ctf solutions & crackmes
+### [Reverse Engineering Writeups](https://github.com/Against-All-Odds-07/reverse-engineering-writeups) — ctf solutions & crackmes
 hackthebox, tryhackme, random crackmes. solutions to problems. my notes on how i broke things open.
 
 **why it exists:** documenting the process helps me learn. maybe it helps you too.
@@ -142,7 +142,7 @@ stay curious
 stay safe
 stay weird
 
-— 0xNeo77
+— Against-All-Odds-07
 ```
 
 ```
