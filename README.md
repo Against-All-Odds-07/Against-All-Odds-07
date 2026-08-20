@@ -4,9 +4,9 @@
 
 ## who am i?
 
-i spend my time staring at assembly code, finding rootkits that shouldn't exist, and breaking things open to understand them. linux kernel modules, android firmware, binary reversing
+Just a Guy trying to be top 1%
 
-the kind of person who reads disassembly for fun. no judgment if you do too.
+the kind of person crazy enough to BELIEVE. no judgment if you do too.
 
 ---
 
