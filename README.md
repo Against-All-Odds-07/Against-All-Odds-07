@@ -6,8 +6,6 @@
 
 Just a Guy trying to be top 1%
 
-the kind of person crazy enough to BELIEVE. no judgment if you do too.
-
 ---
 
 ## what i actually do
