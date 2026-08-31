@@ -1,10 +1,10 @@
-# hey, i'm Against-All-Odds-07 (not an name, btw!).
+# Hey, I'm Against-All-Odds-07 (not an name, btw!).
 
 ---
 
 ## who am i?
 
-Just a Guy trying to be top 1%
+Just A Guy Trying To Be Top 1%
 
 ---
 
@@ -66,7 +66,7 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 ---
 
-basically: the lower the level, the more interesting it gets.
+Till All Are One
 
 
 ```
