@@ -1,4 +1,4 @@
-# Hey, I'm Against-All-Odds-07 (not an name, btw!).
+# Hey, I'm Against-All-Odds-07 .
 
 ---
 
