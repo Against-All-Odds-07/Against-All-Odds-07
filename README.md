@@ -66,7 +66,7 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 ---
 
-Till All Are One
+Hang on to your dreams, Chip. The future is built on dreams.
 
 
 ```
