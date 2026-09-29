@@ -31,6 +31,17 @@ android | firmware | partition-manipulation | mediatek | python
 
 ---
 
+### [Ghidorah Project](https://github.com/Against-All-Odds-07/ghidorah-project) — reverse engineering framework
+comprehensive framework for binary analysis and reverse engineering. built for serious reversers who need powerful tooling and automation.
+
+**why it exists:** because reversing complex binaries requires more than just a disassembler. this ties it all together.
+
+```
+reverse-engineering | binary-analysis | ghidra | automation | framework
+```
+
+---
+
 ### [Realme C55 Root Guide](https://github.com/Against-All-Odds-07/realme-c55-root-guide) — technical documentation
 deep dive into bootloader unlocking, avb verification, recovery flashing. basically "how to completely own your phone and why it's harder than it should be."
 
