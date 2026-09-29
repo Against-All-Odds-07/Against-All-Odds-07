@@ -31,13 +31,13 @@ android | firmware | partition-manipulation | mediatek | python
 
 ---
 
-### [Ghidorah Project](https://github.com/Against-All-Odds-07/ghidorah-project) — reverse engineering framework
-comprehensive framework for binary analysis and reverse engineering. built for serious reversers who need powerful tooling and automation.
+### [Ghidorah Project](https://github.com/Against-All-Odds-07/ghidorah-project) — personal security research project
+small project focused on automation, analysis, and experimentation around binary and security workflows. more of a hands-on lab and utility collection than a standalone RE framework.
 
-**why it exists:** because reversing complex binaries requires more than just a disassembler. this ties it all together.
+**why it exists:** research is easier when the repetitive parts are automated and the notes are kept in one place.
 
 ```
-reverse-engineering | binary-analysis | ghidra | automation | framework
+security-research | automation | analysis | tooling | experimentation
 ```
 
 ---
