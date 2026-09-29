@@ -31,13 +31,13 @@ android | firmware | partition-manipulation | mediatek | python
 
 ---
 
-### [Ghidorah Project](https://github.com/Against-All-Odds-07/ghidorah-project) — personal security research project
-small project focused on automation, analysis, and experimentation around binary and security workflows. more of a hands-on lab and utility collection than a standalone RE framework.
+### [Ghidorah](https://github.com/Against-All-Odds-07/Ghidorah) — android app for remote device control
+android app built for remote device control over a Tailscale VPN. focused on secure, low-friction access and control between devices.
 
-**why it exists:** research is easier when the repetitive parts are automated and the notes are kept in one place.
+**why it exists:** when you need to manage a remote device reliably, it helps to have a direct, VPN-backed control path instead of relying on messy ad-hoc setups.
 
 ```
-security-research | automation | analysis | tooling | experimentation
+android | kotlin | tailscale | remote-control | vpn
 ```
 
 ---
