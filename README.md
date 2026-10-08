@@ -80,6 +80,4 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 Hang on to your dreams, Chip. The future is built on dreams.
 
 
-```
-— Against-All-Odds-07
-```
+
