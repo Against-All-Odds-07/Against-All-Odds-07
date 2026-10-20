@@ -2,7 +2,7 @@
 
 ---
 
-## who am i?
+## Who am i?
 
 Just A Guy Trying To Be Top 1%
 
