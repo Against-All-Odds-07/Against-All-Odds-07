@@ -1,6 +1,3 @@
-# Hey, I'm Against-All-Odds-07 .
-
----
 
 ## Who am i?
 
