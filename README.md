@@ -10,6 +10,10 @@ Just A Guy Trying To Be Top 1%
 - **reverse engineering** → decompile, analyze, understand
 - **firmware hacking** → android, bootloaders, partitions—it all falls apart eventually
 - **ctf grinding** → crackmes, hackthebox, picoCTF, just for the sake of it
+- **Waste time** → Day dreaming, hahaa.
+
+
+
 
 ---
 
